@@ -1,7 +1,7 @@
 ### Koe rapaziada, eu sou Pablo Ferreira!
 
 - 🔭 Atualmente estou em busca de estágio na área de desenvolvimento
-- 🌱 Estudando Ciência da Computação e dando um foco maior em Python
+- 🌱 Estudando Ciência da Computação e dando um foco maior em Java
 - 📫 Meu e-mail: pablo_oliveira96@hotmail.com
 ### Contatos:
 
